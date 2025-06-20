@@ -43,3 +43,7 @@ Matplotlib for visualization
 This task gave me practical exposure to computer vision tasks and deep learning model usage without needing to build or train models from scratch. It demonstrated the power of transfer learning and pre-trained models, which are crucial for efficient AI development.
 
 Completing this task deepened my understanding of how neural networks process visual data and how style and content are treated differently in convolutional neural networks (CNNs). It also highlighted how creativity and AI intersect, making technology a powerful tool in the world of digital design.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/bf4a8f3c-44b4-4ded-804d-c6f9665795e7)
